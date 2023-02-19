@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51263910589",
+    "project_id": "note-6bc03",
+    "storage_bucket": "note-6bc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51263910589:android:e6c9d31c859ccbd378fdd4",
+        "android_client_info": {
+          "package_name": "com.rabilu.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51263910589-50m24v2m3c30hfnqbreg6dskhp77i5bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWmhGWnVJ8sDnbli9zN1dJjVsms7oMYsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51263910589-50m24v2m3c30hfnqbreg6dskhp77i5bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
