@@ -8,4 +8,6 @@
     <string name="you_don_t_have_account">you don\'t have account?</string>
     <string name="sign_up">Sign Up</string>
     <string name="full_name">Full Name</string>
+    <string name="add_new_note">add new note</string>
+    <string name="empty_note">empty note</string>
 </resources>
